@@ -8,21 +8,14 @@
 <h3>Skill & Knowledge</h3>
 
 <div style="display: flex;">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=js" width="30" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=react" width="30" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=py" width="30" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="30" height="30" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=php" width="30" height="30" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" width="30" height="30" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" width="30" height="30" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="30" height="30" alt="tailwindcss logo"  />
 </div>
 
 <br/>
