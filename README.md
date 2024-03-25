@@ -3,11 +3,11 @@
 <h1>Wahyudi Firmansyah</h1>
 <p>Hello everyone! I am is a Student from Indonesia.</p>
 <p>Web & Mobile Enthusiast</p>
-<p>Games • Anime • Art • Design</p>
+<p>Games, Anime, Art, Design</p>
 <br/>
 <h3>Skill & Knowledge</h3>
 
-<div>
+<div style="display: flex;">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
@@ -29,7 +29,7 @@
 
 <h3>Contact Me</h3>
 
-<div>
+<div style="display: flex;">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
