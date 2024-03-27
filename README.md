@@ -1,4 +1,4 @@
-![image](https://github.com/firmansyahken/firmansyahken/assets/66572675/aa7b0a84-c2b6-4e72-9475-41a9f2c171de)
+![banner](https://github.com/firmansyahken/firmansyahken/assets/66572675/176e49e3-750f-45fa-a00f-1a9b3a62f033)
 
 <h1>Wahyudi Firmansyah</h1>
 <p>Hello everyone! I am is a Student from Indonesia.</p>
